@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
 ## Host on ghpages
-1. `ng build --env=prod --base-href "https://username.github.io/repository_name/"`
+1. `ng build --prod --base-href "https://sundhar010.github.io/angular-ghpages/"`
 2. `ngh --dir dist/angular-ghpages`
 
 ## Development server
